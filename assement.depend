@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680708635 source:c:\users\user\desktop\program files\dsa\assement\main.cpp
+	<iostream>
+	<string>
+	<unordered_map>
+	<unordered_set>
+
